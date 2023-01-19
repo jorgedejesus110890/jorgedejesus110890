@@ -16,11 +16,20 @@ Reflective attitude and ability to collaborate in educational research related t
 - Installing, configuring, testing and maintaining operating systems, application software and system management tools.
 - Provided administrative and technical support to various department managers.
 
-## Skills:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+## Professional Skills:
+- Good communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.
+- Strong problem solving and debugging/troubleshooting skills.
+- Experience in development and implementation of machine learning projects, preferably strong experience with Deep Learning and Machine Learning frameworks Keras and Tensorflow.
+- Excellent programming skills mandatory, in particular Python.
+
+## Additional Skills:
+- C
+- C++
+- C#
+- Visual Basic
+- Visual Basic.net
+- Java
+- -Python
 
 ## Interests
 - Programming
@@ -33,4 +42,6 @@ Reflective attitude and ability to collaborate in educational research related t
 - Travelling
 -  Sports.
 
+## Contact email
+jorgedejesus110890@gmail.com
 
