@@ -23,6 +23,7 @@ Reflective attitude and ability to collaborate in educational research related t
 - Excellent programming skills mandatory, in particular Python.
 
 ## Additional Skills:
+
 - C
 - C++
 - C#
