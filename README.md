@@ -8,13 +8,13 @@ Reflective attitude and ability to collaborate in educational research related t
 
 2017-2020
 
-Collaborated with designers to create clean interfaces and simple, intuitive interactions.
-Developing applications to facilitate the work of the production line operators(C,C#,Visual Basic.net,Java)
-Embedded C With Electronics/Schematics/PCB, sensors.
-Maintenance and constant change of applications according to the needs of the company.
-Managing and monitoring all installed systems and infrastructure.
-Installing, configuring, testing and maintaining operating systems, application software and system management tools.
-Provided administrative and technical support to various department managers.
+- Collaborated with designers to create clean interfaces and simple, intuitive interactions.
+- Developing applications to facilitate the work of the production line operators(C,C#,Visual Basic.net,Java)
+- Embedded C With Electronics/Schematics/PCB, sensors.
+- Maintenance and constant change of applications according to the needs of the company.
+- Managing and monitoring all installed systems and infrastructure.
+- Installing, configuring, testing and maintaining operating systems, application software and system management tools.
+- Provided administrative and technical support to various department managers.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -23,6 +23,14 @@ Provided administrative and technical support to various department managers.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Interests
-Programming, mathematics education, Software Design, Science and Technology, Research, Discrete Mathematics, Recreational Mathematics, Travelling, Sports.
+- Programming
+- Mathematics education 
+- Software Design
+- Science and Technology
+- Research
+- Discrete Mathematics
+- Recreational Mathematics
+- Travelling
+-  Sports.
 
 
