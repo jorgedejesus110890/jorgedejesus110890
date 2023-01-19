@@ -29,7 +29,7 @@ Reflective attitude and ability to collaborate in educational research related t
 - Visual Basic
 - Visual Basic.net
 - Java
-- -Python
+- Python
 
 ## Interests
 - Programming
@@ -40,7 +40,7 @@ Reflective attitude and ability to collaborate in educational research related t
 - Discrete Mathematics
 - Recreational Mathematics
 - Travelling
--  Sports.
+- Sports.
 
 ## Contact email
 jorgedejesus110890@gmail.com
